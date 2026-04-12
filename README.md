@@ -4,6 +4,7 @@ Hi, My name is janderson👋
   <a href = "mailto:jandersoncamposdesantana@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/janderson-campos-ba761b1b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://barbkill.itch.io/" target="_blank"><img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" target="_blank" ></a> 
+  <a href="https://barbkill.itch.io/" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" target="_blank" ></a> 
 </div>
 
 ### SKILLS
@@ -28,4 +29,14 @@ Hi, My name is janderson👋
   <img align="center" alt="android" height="40" width="40" src="https://github.com/aras-p/gamedev-emojis/blob/main/platforms/emoji-android.png">
   <img align="center" alt="linux" height="40" width="40" src="https://github.com/aras-p/gamedev-emojis/blob/main/platforms/emoji-linux.png">
   <img align="center" alt="windows" height="40" width="40" src="https://github.com/aras-p/gamedev-emojis/blob/main/platforms/emoji-windows.png">
+</div>
+
+### Design
+
+<div>
+  <img align="center" alt="audacity" height="40" width="40" src="https://github.com/aras-p/gamedev-emojis/blob/main/tools-audio/emoji-audacity.png">
+  <img align="center" alt="fl studio" height="40" width="40" src="https://github.com/aras-p/gamedev-emojis/blob/main/tools-audio/emoji-flstudio.png">
+  <img align="center" alt="blender" height="40" width="40" src="https://github.com/aras-p/gamedev-emojis/blob/main/tools-graphics/emoji-blender.png">
+  <img align="center" alt="aseprite" height="40" width="40" src="https://github.com/aras-p/gamedev-emojis/blob/main/tools-audio/emoji-flstudio.png">
+  <img align="center" alt="figma" height="40" width="40" src="http://github.com/aras-p/gamedev-emojis/blob/main/tools-other/emoji-figma.png"> 
 </div>
