@@ -27,5 +27,5 @@
 ### portfolio
 
 <div>
-  <a href="https://barbkill.itch.io/" target="_blank"><img src="https://github.com/aras-p/gamedev-emojis/blob/main/stores/emoji-itchio.png" target="_blank"></a> 
+  <a href="https://barbkill.itch.io/" target="_blank"><img height="40" width="40" src="https://github.com/aras-p/gamedev-emojis/blob/main/stores/emoji-itchio.png" target="_blank" ></a> 
 </div>
