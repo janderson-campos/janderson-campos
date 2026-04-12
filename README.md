@@ -22,9 +22,10 @@
 ### platforms
 
 <div>
+  <img align="center" alt="android" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg">
   <img align="center" alt="android" height="40" width="40" src="https://github.com/aras-p/gamedev-emojis/blob/main/platforms/emoji-android.png">
   <img align="center" alt="linux" height="40" width="40" src="https://github.com/aras-p/gamedev-emojis/blob/main/platforms/emoji-linux.png">
-    <img align="center" alt="windows" height="40" width="40" src="https://github.com/aras-p/gamedev-emojis/blob/main/platforms/emoji-windows.png">
+  <img align="center" alt="windows" height="40" width="40" src="https://github.com/aras-p/gamedev-emojis/blob/main/platforms/emoji-windows.png">
 </div>
 
 ### portfolio
