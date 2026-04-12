@@ -8,13 +8,17 @@
 ### skills
 
 <div>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    <img align="center" alt="Rafa-Csharp" height="40" width="40" src="https://github.com/aras-p/gamedev-emojis/blob/main/engines/emoji-godot.png">
+  <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
 ### IDES
-
+<div>
+  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+  <img align="center" alt="godot" height="40" width="40" src="https://github.com/aras-p/gamedev-emojis/blob/main/engines/emoji-godot.png">
+  <img align="center" alt="unity" height="40" width="40" src="https://github.com/aras-p/gamedev-emojis/blob/main/engines/emoji-unity.png">
+  <img align="center" alt="gamemaker2" height="40" width="40" src="https://github.com/aras-p/gamedev-emojis/blob/main/engines/emoji-gamemaker.png">
+</div>
 
 ### platforms
 
