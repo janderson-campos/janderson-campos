@@ -37,5 +37,5 @@ Hi, My name is janderson👋
   <img align="center" alt="fl studio" height="40" width="40" src="https://github.com/aras-p/gamedev-emojis/blob/main/tools-audio/emoji-flstudio.png">
   <img align="center" alt="blender" height="40" width="40" src="https://github.com/aras-p/gamedev-emojis/blob/main/tools-graphics/emoji-blender.png">
   <img align="center" alt="aseprite" height="40" width="40" src="https://github.com/aras-p/gamedev-emojis/blob/main/tools-audio/emoji-flstudio.png">
-  <img align="center" alt="figma" height="40" width="40" src="http://github.com/aras-p/gamedev-emojis/blob/main/tools-other/emoji-figma.png"> 
+  <img align="center" alt="figma" height="40" width="40" src="https://github.com/aras-p/gamedev-emojis/blob/main/tools-other/emoji-figma.png"> 
 </div>
