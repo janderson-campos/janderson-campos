@@ -14,7 +14,6 @@
 
 ### IDES
 <div>
-  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
   <img align="center" alt="godot" height="40" width="40" src="https://github.com/aras-p/gamedev-emojis/blob/main/engines/emoji-godot.png">
   <img align="center" alt="unity" height="40" width="40" src="https://github.com/aras-p/gamedev-emojis/blob/main/engines/emoji-unity.png">
   <img align="center" alt="gamemaker2" height="40" width="40" src="https://github.com/aras-p/gamedev-emojis/blob/main/engines/emoji-gamemaker.png">
