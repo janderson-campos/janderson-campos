@@ -18,3 +18,14 @@
 
 ### platforms
 
+<div>
+  <img align="center" alt="android" height="40" width="40" src="https://github.com/aras-p/gamedev-emojis/blob/main/platforms/emoji-android.png">
+  <img align="center" alt="linux" height="40" width="40" src="https://github.com/aras-p/gamedev-emojis/blob/main/platforms/emoji-linux.png">
+    <img align="center" alt="windows" height="40" width="40" src="https://github.com/aras-p/gamedev-emojis/blob/main/platforms/emoji-windows.png">
+</div>
+
+### portfolio
+
+<div>
+  <a href="https://barbkill.itch.io/" target="_blank"><img src="https://github.com/aras-p/gamedev-emojis/blob/main/stores/emoji-itchio.png" target="_blank"></a> 
+</div>
