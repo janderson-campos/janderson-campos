@@ -10,12 +10,13 @@ Hi, My name is janderson👋
 
 <div>
   <img align="center" alt="kotlin" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"></img>
-  <img align="center" alt="python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></img>
+  <img align="center" alt="csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></img>
 </div>
 
 
 ### IDES
+
 <div>
   <img align="center" alt="godot" height="40" width="40" src="https://github.com/aras-p/gamedev-emojis/blob/main/engines/emoji-godot.png">
   <img align="center" alt="unity" height="40" width="40" src="https://github.com/aras-p/gamedev-emojis/blob/main/engines/emoji-unity.png">
