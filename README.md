@@ -55,3 +55,5 @@
   <img src="https://github.com/aras-p/gamedev-emojis/blob/main/tools-graphics/emoji-aseprite.png" height="40"/>
   <img src="https://github.com/aras-p/gamedev-emojis/blob/main/tools-other/emoji-figma.png" height="40"/>
 </div>
+
+[![](https://github-readme-activity-graph.vercel.app/graph?username=pedrofariasx&theme=dracula)]()
