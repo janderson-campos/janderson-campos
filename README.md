@@ -56,4 +56,4 @@
   <img src="https://github.com/aras-p/gamedev-emojis/blob/main/tools-other/emoji-figma.png" height="40"/>
 </div>
 
-[![](https://github-readme-activity-graph.vercel.app/graph?username=pedrofariasx&theme=dracula)]()
+//[![](https://github-readme-activity-graph.vercel.app/graph?username=pedrofariasx&theme=dracula)]()
