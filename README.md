@@ -35,7 +35,7 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" height="40" alt="Godot" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" height="40" alt="Unity" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gamemaker/gamemaker-original.svg" height="40" alt="GameMaker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gamemaker/gamemaker.svg" height="40" alt="GameMaker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio" />
 </div>
 
@@ -52,10 +52,10 @@
 
 ### 🎨 Creative Tools
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/audacity/audacity-original.svg" height="40" alt="Audacity" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flstudio/flstudio-original.svg" height="40" alt="FL Studio" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/audacity/audacity.svg" height="40" alt="Audacity" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flstudio/flstudio.svg" height="40" alt="FL Studio" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" height="40" alt="Blender" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aseprite/aseprite-original.svg" height="40" alt="Aseprite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aseprite/aseprite.svg" height="40" alt="Aseprite" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="40" alt="Figma" />
 </div>
 
