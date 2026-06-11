@@ -52,10 +52,10 @@
 
 ### 🎨 Creative Tools
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/audacity/audacity.svg" height="40" alt="Audacity" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flstudio/flstudio.svg" height="40" alt="FL Studio" />
+  //<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/audacity/audacity.svg" height="40" alt="Audacity" />
+ // <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flstudio/flstudio.svg" height="40" alt="FL Studio" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" height="40" alt="Blender" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aseprite/aseprite.svg" height="40" alt="Aseprite" />
+ // <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aseprite/aseprite.svg" height="40" alt="Aseprite" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="40" alt="Figma" />
 </div>
 
